@@ -1,4 +1,4 @@
-# git5
+local
 bonjour
 hello
 bonsoir
